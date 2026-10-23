@@ -1,6 +1,6 @@
-# Falcontechworld Website
+# FalconTechWorld Website
 
-A responsive React + TypeScript + Vite website for Falcontechworld IT infrastructure, CCTV/security, enterprise Wi-Fi, networking, IT support, and maintenance services.
+A responsive React + TypeScript + Vite website for FalconTechWorld IT infrastructure, CCTV/security, enterprise Wi-Fi, networking, IT support, and maintenance services.
 
 ## Requirements
 
@@ -107,7 +107,7 @@ Suggested success response: HTTP 201 with a JSON object such as `{"id": "request
 
 ## Before production launch
 
-- Supply and verify the official Falcontechworld logo and replace the CSS-built wordmark with the original asset.
+- Supply and verify the official FalconTechWorld logo and replace the CSS-built wordmark with the original asset.
 - Confirm official business email, phone, WhatsApp number, address, business hours, and company-specific facts.
 - Replace the Unsplash demonstration photography with licensed/approved company imagery if needed.
 - Review privacy policy and terms with the business/legal adviser.
